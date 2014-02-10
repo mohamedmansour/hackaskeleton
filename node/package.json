@@ -1,0 +1,14 @@
+{
+  "name": "hackaskeleton",
+  "version": "0.0.1",
+  "desxpresscription": "Hackaskeleton is a Hackathon Skeleton to do rapid Hackathon Dev",
+  "main": "server.js",
+  "author": {
+    "name": "Mohamed Mansour"
+  },
+  "dependencies": {
+    "express": "3.4.x",
+    "request": "2.33.x",
+    "jade": "1.1.x"
+  }
+}
